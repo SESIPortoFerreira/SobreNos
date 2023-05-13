@@ -16,7 +16,9 @@ body {
 
 } 
 
-  
+span {
+    color: #dcd4d4; 
+}
 
 header { 
 
@@ -195,6 +197,10 @@ header li a:hover{
 
     padding-right: 30px; 
 
+    padding-top: 10px;
+
+    padding-bottom: 10px;
+
 } 
 
   
@@ -246,6 +252,10 @@ header li a:hover{
     max-height: 300px; 
 
     padding-right: 30px; 
+
+    padding-top: 10px;
+
+    padding-bottom: 10px;
 
 } 
 

@@ -103,7 +103,9 @@
     }
     
       
-    
+    span{
+        color: #dcd4d4; 
+    }
     .conteudobox1 { 
     
         display: flex; 
@@ -181,6 +183,7 @@
         max-height: 30px; 
     
         padding-right: 3px; 
+        
     
     } 
     
